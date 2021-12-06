@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376719304422",
+    "project_id": "add-my-fav-movies",
+    "storage_bucket": "add-my-fav-movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376719304422:android:28fd75628a6b63de5e3d27",
+        "android_client_info": {
+          "package_name": "com.example.moviesapp_zu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376719304422-8b4np5maqn1r12lvg4sfceu8sjlhobda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXuJyEp9M0AH_PhohSeZePDk-sPlkWP2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376719304422-8b4np5maqn1r12lvg4sfceu8sjlhobda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
